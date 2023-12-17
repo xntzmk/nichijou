@@ -25,10 +25,13 @@
 ### 游戏
 - [ ] 《星之卡比wii豪华版》、Switch
 
-## 键盘映射
-- MT(MOD_LSFT | MOD_RSFT,KC_SLSH)  #shift
-
 ## TODO
 - [ ] QQ、微信表情包整理
+- [ ] Chrome 收藏夹整理
 - [ ] 搜狗输入法: 小鹤音形，emoji导入，表情导入
-- [ ] 尚雯婕学习法 - 英语
+- [ ] 英语: 尚雯婕学习法
+
+## 键盘via
+| 键名   | 键值        |
+| ------ | ----------- |
+| RShift | MT(MOD_LSFT | MOD_RSFT,KC_SLSH) |
